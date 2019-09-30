@@ -1,0 +1,9 @@
+#PaperVideoItem {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+img {
+  margin-right: 20px;
+}
